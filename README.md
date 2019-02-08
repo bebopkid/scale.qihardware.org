@@ -15,7 +15,7 @@ some coin moderation up and down_
   <li>
     <a href="{{ link.url }}">
       {{ link.url }}
-    </a>, <em>posted by {{ link.postedby }}</em>
+    </a><br /><em>posted by {{ link.postedby }}, liked by {{ link.likedby }}</em>
   </li>
 {% endfor %}
 </ul>
