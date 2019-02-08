@@ -14,7 +14,7 @@ some coin moderation up and down <a href="https://github.com/QiHardware/scale.qi
   <li>
     <a href="{{ link.url }}">
       {{ link.url }}
-    </a><br /><em>posted by {{ link.postedBy }}{% if link.likedBy %}, liked by {{ link.likedby }}{% endif %}</em>
+    </a><br /><em>posted by {{ link.postedBy }}{% if link.likedBy %}, liked by {{ link.likedBy }}{% endif %}</em>
   </li>
 {% endfor %}
 </ul>
