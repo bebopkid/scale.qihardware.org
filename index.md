@@ -1,6 +1,6 @@
 # scale.qihardware.org
 
-Journal of Hardware, Software, Crypto and CHINA.
+Journal for Hardware, Software, Crypto and China.
 
 ## Current: {{ site.data.2019.week.05.title }}
 
@@ -21,19 +21,18 @@ some coin moderation up and down <a href="https://github.com/QiHardware/scale.qi
 
 ## Guideliness
 
-- Weekly Gathering of Links, starts as soon as issue cut on Friday (links held over or cut?)
-- Start simple, text file with links in it, anyone may edit, order
-- Select top 14 (need some idea of why a number)
-- On Friday, end of day PST, compile top links into PDF for release for weekend offline time :)
+- Weekly roundup of articles, research, comments on the intersection of crypto, hardware, software, and culture
+- Open for anyone to add links, reorder, or edit
+- Each Friday, at the end of the business day PST, the top links are compiled into a PDF for release for weekend offline reading
 
 ## Future
 
-- Will add up and down voting on the ranking of link/paper submissions with ETH
-- Add some way for sponsorship spots on the issues, paid in ETH
+- Add up/down voting powered by ETH to rank quality of submissions
+- Looking for sponsorship (in ETH) to underwrite a more formal journal
 
 ## Old Issues
 
-- old archives online: https://github.com/rejon/scale-2004
+- Pre-2019 archives: https://github.com/rejon/scale-2004
 
 
 ## Contact
@@ -45,5 +44,5 @@ some coin moderation up and down <a href="https://github.com/QiHardware/scale.qi
 
 ## Contribute
 
-- Add a link to the week. Go to the top :)
+- Add your links to the top of the weekly roundup.
 - https://github.com/QiHardware/scale.qihardware.org (code + site)
