@@ -1,6 +1,6 @@
 # scale.qihardware.org
 
-Journal of Hardware, Software, Crypto and CHINA.
+Journal for Hardware, Software, Crypto and China.
 
 ## Contact
 
@@ -11,5 +11,5 @@ Journal of Hardware, Software, Crypto and CHINA.
 
 ## Contribute
 
-- Add a link to the week. Go to the top :)
+- Add links to the top of the current week's roundup.
 - https://github.com/QiHardware/scale.qihardware.org (code + site)
