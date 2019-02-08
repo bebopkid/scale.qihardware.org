@@ -2,7 +2,13 @@
 
 Journal of Hardware, Software, Crypto and CHINA.
 
-## Current Week 5 ( date +%w )
+## Current: {{ site.data.2019.week.05.title }}
+
+_Go to the data file, re-order based upon quality, commit
+if our proof-of-work right now until can implement
+some coin moderation up and down_
+
+- <a href="https://github.com/QiHardware/scale.qihardware.org/blob/master/_data/2019/week/05.yml">Week 05 Links</a> (requires github account) 
 
 <ul>
 {% for link in site.data.2019.week.05.links %}
