@@ -4,6 +4,16 @@ Journal of Hardware, Software, Crypto and CHINA.
 
 ## Current Week 5 ( date +%w )
 
+<ul>
+{% for link in site.data.2019.week.05.links %}
+  <li>
+    <a href="{{ link.url }}">
+      {{ link.url }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
 ## Guideliness
 
 - Weekly Gathering of Links, starts as soon as issue cut on Friday (links held over or cut?)
